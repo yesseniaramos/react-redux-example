@@ -3,7 +3,7 @@ import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import CircularProgress from '@material-ui/core/CircularProgress';
-import AppBar from '../appBar';
+import AppBar from '../AppBar';
 import Button from '@material-ui/core/Button';
 import './styles.css';
 
